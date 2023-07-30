@@ -1,6 +1,20 @@
 
 <h1 align="center">Hola! 👋, Yo soy Neider Jesús Bolívar Mendoza</h1>
-<h3 align="center">👨‍💻 Soy un apasionado desarrollador web full stack, entusiasta de la tecnología y siempre en busca de aprender y mejorar mis habilidades. Me he centrado en el desarrollo de aplicaciones web interactivas y escalables, con un enfoque tanto en el Front-end como en el Back-end. Mi objetivo es crear experiencias de usuario atractivas y funcionales que satisfagan las necesidades de los usuarios y brinden soluciones innovadoras. Estoy emocionado de embarcarme en mi carrera profesional y estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como desarrollador web. 🚀🌐😊</h3>
+
+👨‍💻 Soy un apasionado desarrollador web full stack, entusiasta de la tecnología y siempre en busca de aprender y mejorar mis habilidades. Me he centrado en el desarrollo de aplicaciones web interactivas y escalables, con un enfoque tanto en el Front-end como en el Back-end. Mi objetivo es crear experiencias de usuario atractivas y funcionales que satisfagan las necesidades de los usuarios y brinden soluciones innovadoras. Estoy emocionado de embarcarme en mi carrera profesional y estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como desarrollador web. 🚀🌐😊
+<br>
+
+🎓 Me gradué en el Bootcamp Soy Henry 🚀 como un Desarrollador Web Full Stack. Esta formación académica me proporcionó una sólida base teórica, pero mi verdadero aprendizaje ha sido a través de proyectos y la inmersión en el mundo del desarrollo web.
+<br>
+
+🌐 Mi enfoque en el desarrollo de aplicaciones web interactivas y escalables se basa en la creencia de que cada usuario debe tener una experiencia única y satisfactoria al interactuar con una plataforma en línea. Me esfuerzo por crear interfaces de usuario intuitivas y amigables que hagan que la navegación sea un placer para los usuarios finales.
+<br>
+
+🚀 Estoy emocionado de seguir creciendo en mi carrera profesional como desarrollador web y enfrentar nuevos retos que me permitan evolucionar en esta apasionante industria. 
+<br>
+
+✨ Fuera del mundo del desarrollo, disfruto leer, ir al gimnasio, salir con mis amigos y viajar. Estos intereses me permiten equilibrar mi vida y mantenerme inspirado. Ya sea sumergiéndome en un buen libro, manteniendo un estilo de vida activo y saludable, disfrutando de momentos divertidos con amigos o descubriendo nuevos lugares, encuentro que cada experiencia enriquece mi perspectiva y me ayuda a crecer tanto personal como profesionalmente. 😊📚💪✈️
+<br>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
